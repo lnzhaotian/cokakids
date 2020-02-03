@@ -4,7 +4,7 @@
 <li><a href="#%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95">快速指引</a>
 <ul>
 <li><a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">移动端进入教室</a></li>
-<li><a href="#%E7%94%B5%E8%84%91%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4">电脑端进入教室</a></li>
+<li><a href="#PC%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4">PC端进入教室</a></li>
 </ul>
 </li>
 <li><a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a></li>
@@ -25,7 +25,7 @@
 <img src="https://lh3.googleusercontent.com/sBlLZElQ_LOwi2q1i_cfuc0eSpv284i4hsQ6yAT6YaHKNMO-bIVfkztbuNKQbBvuVT-I6MI9dywr" alt="图3图4"><br>
 <img src="https://lh3.googleusercontent.com/AdTw9hYItekImPNltihribsF7Q8-SZ0xtQlU9j8bVdARjW22GfGX1dTKdaak5nrLcDymp7IjD-c1" alt="图5.1图5.2"><br>
 <img src="https://lh3.googleusercontent.com/5_AG2kLfvj34DXCsijQs1y_vHptPhzAGyqXSQ0Mwlbo7WJ0dbfwQA0eoCx3_M_C0z4eQduHXciMM" alt="图6图7"><br>
-<a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回页首</a></p>
+<a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h3 id="pc端进入教室">PC端进入教室</h3>
 <ol>
 <li>在PC端登录<a href="https://wx.qq.com/">网页版微信</a>或下载安装(<a href="https://weixin.qq.com/cgi-bin/readtemplate?&amp;t=weixin_download_list">桌面版微信</a>)；</li>
@@ -33,7 +33,7 @@
 <li>教室入口会在系统默认浏览器里打开</li>
 <li>后续操作同移动端<a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">4-7步</a></li>
 </ol>
-<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回页首</a></p>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h3 id="系统要求">系统要求</h3>
 <ul>
 <li>浏览器（ <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a>）
@@ -44,5 +44,5 @@
 </ul>
 </li>
 </ul>
-<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回页首</a></p>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 
