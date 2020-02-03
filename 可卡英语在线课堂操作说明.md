@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CokaKidsOnlineClassroom</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#可卡英语在线课堂操作说明">可卡英语在线课堂操作说明</a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#快速指引">快速指引</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="可卡英语在线课堂操作说明">可卡英语在线课堂操作说明</h1>
+<h1 id="可卡英语在线课堂操作说明">可卡英语在线课堂操作说明</h1>
 <h5 id="目录">目录</h5>
 <ul>
 <li><a href="#%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95">快速指引</a>
@@ -81,8 +46,3 @@
 </ul>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回页首</a></p>
 
-    </div>
-  </div>
-</body>
-
-</html>
