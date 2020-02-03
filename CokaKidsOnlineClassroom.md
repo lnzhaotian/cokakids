@@ -28,7 +28,7 @@
 <a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h3 id="pc端进入教室">PC端进入教室</h3>
 <ol>
-<li>在PC端登录<a href="https://wx.qq.com/">网页版微信</a>或下载安装(<a href="https://weixin.qq.com/cgi-bin/readtemplate?&amp;t=weixin_download_list">桌面版微信</a>)；</li>
+<li>在PC端登录<a href="https://wx.qq.com/">网页版微信</a>或下载安装<a href="https://weixin.qq.com/cgi-bin/readtemplate?&amp;t=weixin_download_list">桌面版微信</a>并登录；</li>
 <li>找到并点击老师发来的教室链接；</li>
 <li>教室入口会在系统默认浏览器里打开</li>
 <li>后续操作同移动端<a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">4-7步</a></li>
