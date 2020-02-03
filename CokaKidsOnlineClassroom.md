@@ -32,16 +32,22 @@
 <li>PC建议Windows 10以上</li>
 <li>Mac建议OS X Yosemite 10.10以上</li>
 <li>iPhone/iPad建议iOS 12.2以上</li>
-<li>安卓建议Android 6.0以上</li>
+<li>安卓设备建议Android 6.0以上</li>
 </ul>
 </li>
 <li>网络环境（<a href="http://www.speedtest.cn/">测速</a>）
 <ul>
-<li>上行500 Kb/s以上</li>
-<li>下行1Mb/s以上</li>
+<li>上传0.5Mbps以上</li>
+<li>下载1Mbps以上</li>
 </ul>
 </li>
-<li>其它</li>
+<li>其它
+<ul>
+<li>以上为最低要求</li>
+<li>如已满足以上要求，在课堂上仍出现不稳定的情况，建议尽可能升级软、硬件配置或网络带宽</li>
+<li>通常情况下，在Mac系统中使用Safari浏览器即可，但如果出问题，可尝试安装Chrome或Firefox浏览器</li>
+</ul>
+</li>
 </ul>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h2 id="快速指引">快速指引</h2>
