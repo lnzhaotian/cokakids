@@ -12,15 +12,6 @@
 <hr>
 <h2 id="系统要求">系统要求</h2>
 <ul>
-<li>操作系统要求
-<ul>
-<li>支持安装最新版Chrome或Firefox浏览器</li>
-<li>PC建议Windows 10以上</li>
-<li>Mac建议OS X Yosemite 10.10以上</li>
-<li>iPhone/iPad建议iOS 12.2以上</li>
-<li>安卓建议Android 6.0以上</li>
-</ul>
-</li>
 <li>浏览器（ <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a>）
 <ul>
 <li>台式机/笔记本: 最新版Chrome或Firefox浏览器（Mac系统可以使用系统自带的Safari浏览器）</li>
@@ -33,6 +24,15 @@
 <li>耳麦一副</li>
 <li>CPU双核以上</li>
 <li>内存2G以上</li>
+</ul>
+</li>
+<li>操作系统
+<ul>
+<li>支持安装最新版Chrome或Firefox浏览器</li>
+<li>PC建议Windows 10以上</li>
+<li>Mac建议OS X Yosemite 10.10以上</li>
+<li>iPhone/iPad建议iOS 12.2以上</li>
+<li>安卓建议Android 6.0以上</li>
 </ul>
 </li>
 <li>网络环境（<a href="http://www.speedtest.cn/">测速</a>）
