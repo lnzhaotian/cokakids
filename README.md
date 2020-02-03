@@ -1,15 +1,49 @@
 <h1 id="可卡英语在线课堂操作说明">可卡英语在线课堂操作说明</h1>
 <h4 id="目录">目录</h4>
 <ul>
+<li><a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a></li>
 <li><a href="#%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95">快速指引</a>
 <ul>
 <li><a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">移动端进入教室</a></li>
 <li><a href="#PC%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4">PC端进入教室</a></li>
 </ul>
 </li>
-<li><a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a></li>
 </ul>
 <hr>
+<h2 id="系统要求">系统要求</h2>
+<ul>
+<li>操作系统要求
+<ul>
+<li>支持安装最新版Chrome或Firefox浏览器</li>
+<li>PC建议Windows 10以上</li>
+<li>Mac建议OS X Yosemite 10.10以上</li>
+<li>iPhone/iPad建议iOS 12.2以上</li>
+<li>安卓建议Android 6.0以上</li>
+</ul>
+</li>
+<li>浏览器（ <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a>）
+<ul>
+<li>台式机/笔记本: 最新版Chrome或Firefox浏览器（Mac系统可以使用系统自带的Safari浏览器）</li>
+<li>iPhone/iPad: 系统自带的Safari浏览器</li>
+<li>安卓: 最新版Chrome浏览器</li>
+</ul>
+</li>
+<li>硬件要求
+<ul>
+<li>耳麦一副</li>
+<li>CPU双核以上</li>
+<li>内存2G以上</li>
+</ul>
+</li>
+<li>网络环境（<a href="http://www.speedtest.cn/">测速</a>）
+<ul>
+<li>上行500 Kb/s以上</li>
+<li>下行1Mb/s以上</li>
+</ul>
+</li>
+<li>其它</li>
+</ul>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h2 id="快速指引">快速指引</h2>
 <h3 id="移动端进入教室（苹果设备为例）">移动端进入教室（苹果设备为例）</h3>
 <ol>
@@ -33,16 +67,5 @@
 <li>教室入口会在系统默认浏览器里打开</li>
 <li>后续操作同移动端<a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">4-7步</a></li>
 </ol>
-<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
-<h3 id="系统要求">系统要求</h3>
-<ul>
-<li>浏览器（ <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a>）
-<ul>
-<li>台式机/笔记本: 最新版Chrome或Firefox浏览器（Mac系统可以使用系统自带的Safari浏览器）</li>
-<li>移动设备iOS (12.2+): 系统自带的Safari浏览器</li>
-<li>移动设备Android (6.0+): 最新版Chrome浏览器</li>
-</ul>
-</li>
-</ul>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 
