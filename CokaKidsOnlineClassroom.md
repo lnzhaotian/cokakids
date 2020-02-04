@@ -8,15 +8,23 @@
 <li><a href="#PC%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4">PC端进入教室</a></li>
 </ul>
 </li>
+<li><a href="#faq">FAQ</a>
+<ul>
+<li><a href="#%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85%E6%8E%A8%E8%8D%90%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8">如何安装推荐的浏览器</a></li>
+<li><a href="#%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">如何设置默认浏览器</a></li>
+<li><a href="#%E5%8A%A0%E5%85%A5%E8%AF%BE%E5%A0%82%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E4%B8%8D%E5%88%B0%E5%A3%B0%E9%9F%B3">加入课堂后为什么听不到声音</a></li>
+<li><a href="#%E6%88%91%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B8%A6%E5%AE%BD%E5%A4%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%8A%A0%E5%85%A5%E4%B8%8D%E4%BA%86%E8%AF%AD%E9%9F%B3">我的网络带宽符合要求为什么还是加入不了语音</a></li>
+</ul>
+</li>
 </ul>
 <hr>
 <h2 id="系统要求">系统要求</h2>
 <ul>
 <li>浏览器（ <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a>）
 <ul>
-<li>台式机/笔记本: 最新版Chrome或Firefox浏览器（Mac系统可以使用系统自带的Safari浏览器）</li>
-<li>iPhone/iPad: 系统自带的Safari浏览器</li>
-<li>安卓: 最新版Chrome浏览器</li>
+<li>台式机/笔记本：最新版Chrome或Firefox浏览器（Mac系统可以使用系统自带的Safari浏览器）</li>
+<li>iPhone/iPad：系统自带的Safari浏览器</li>
+<li>安卓：最新版Chrome浏览器</li>
 </ul>
 </li>
 <li>硬件要求
@@ -55,7 +63,7 @@
 <ol>
 <li>在微信中点击老师发来的教室链接（图1）；</li>
 <li>打开页面后点击右上角的“…”（图2）；</li>
-<li>在下面弹出的菜单中点击“在Safari中打开”（安卓设备中为“在浏览器打开”）（图3）；</li>
+<li>在下面弹出的菜单中点击“在Safari中打开”（安卓设备中为“在浏览器打开”，确保已安装最新版Chrome浏览器并已<a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">设置为默认浏览器</a>）（图3）；</li>
 <li>跳转到浏览器中页面加载完成后，如果已有帐户则点击“登录”，如果是首次使用则点击“注册”（图4）；</li>
 <li>输入自己帐户的邮箱地址和密码并点击登录（图5.1），或填写表单注册新帐户后登录（图5.2）；</li>
 <li>回到教室页面点击“加入”按钮（图6）；</li>
@@ -70,8 +78,33 @@
 <ol>
 <li>在PC端登录<a href="https://wx.qq.com/">网页版微信</a>或下载安装<a href="https://weixin.qq.com/cgi-bin/readtemplate?&amp;t=weixin_download_list">桌面版微信</a>并登录；</li>
 <li>找到并点击老师发来的教室链接；</li>
-<li>教室入口会在系统默认浏览器里打开</li>
+<li>教室入口会在系统默认浏览器里打开，确保系统默认浏览器符合<a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a>里的浏览器</li>
 <li>后续操作同移动端<a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">4-7步</a></li>
 </ol>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
+<h1 id="faq">FAQ</h1>
+<h2 id="如何安装推荐的浏览器">如何安装推荐的浏览器</h2>
+<ol>
+<li>根据<a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a>里的描述，下载自己设备系统对应的安装包： <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a></li>
+<li>安装完成后一定要<a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">设置为默认浏览器</a></li>
+</ol>
+<h2 id="如何设置默认浏览器">如何设置默认浏览器</h2>
+<ol>
+<li>台式机/笔记本：
+<ul>
+<li>Windows：依次点击：开始菜单&gt;“设置”&gt;“应用”&gt;“默认应用”&gt;“Web 浏览器”下的图标在弹出式菜单中选取“Google Chrome”或“Firefox”。</li>
+<li>Mac：依次点击：苹果菜单&gt;“系统偏好设置”&gt;“通用”&gt;“默认网页浏览器”弹出式菜单并选取“Safari”或“Google Chrome”或“Firefox”。</li>
+</ul>
+</li>
+<li>安卓设备：<br>
+不同的设备不完全相同，但操作通常是：<strong>打开“设置”&gt;找到“默认应用程序”&gt;找到浏览器的选项，选择“Chrome”</strong><br>
+以下是常见安卓手机中的具体步骤，未提及的按上面的原则一般都能找到相应的选项。
+<ul>
+<li>小米：“设置”&gt;“更多应用”&gt;点击右上角的三个点弹出菜单并选取“默认应用设置”&gt;“浏览器”&gt;“Chrome”。</li>
+<li>坚果/锤子：“设置”&gt;“应用管理”&gt;“默认应用程序”&gt;“浏览器”&gt;“Chrome”。</li>
+</ul>
+</li>
+<li>iPhone/iPad：系统自带的Safari浏览器目前不支持更改，因此确保iOS系统为最新版本<br>
+<a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></li>
+</ol>
 
