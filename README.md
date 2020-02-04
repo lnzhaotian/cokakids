@@ -11,7 +11,7 @@
 <li><a href="#faq">FAQ</a>
 <ul>
 <li><a href="#%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85%E6%8E%A8%E8%8D%90%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8">如何安装推荐的浏览器</a></li>
-<li><a href="#%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">如何设置默认浏览器</a></li>
+<li><a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">如何设置默认浏览器</a></li>
 <li><a href="#%E5%8A%A0%E5%85%A5%E8%AF%BE%E5%A0%82%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E4%B8%8D%E5%88%B0%E5%A3%B0%E9%9F%B3">加入课堂后为什么听不到声音</a></li>
 <li><a href="#%E6%88%91%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B8%A6%E5%AE%BD%E5%A4%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%8A%A0%E5%85%A5%E4%B8%8D%E4%BA%86%E8%AF%AD%E9%9F%B3">我的网络带宽符合要求为什么还是加入不了语音</a></li>
 </ul>
@@ -97,27 +97,21 @@
 <li>运行并登录桌面版微信</li>
 <li>点击左下角的“≡”按钮弹出菜单并选择“设置”</li>
 <li>选择“通用设置”；</li>
-<li>确保右侧“使用系统默认浏览器打开网页”被勾选；<br>
-<img src="https://lh3.googleusercontent.com/30pIcTi4xkR9m55jHQ1wEpqn3DTzxm7ilaSNQpsYxoclzEbCR6zC9rSjxBC7RhRWE-x3WsOFu-tf" alt=""></li>
+<li>确保右侧“使用系统默认浏览器打开网页”被勾选；</li>
 </ul>
 </li>
-<li>台式机/笔记本：
-<ul>
-<li>Windows：依次点击：开始菜单&gt;“设置”&gt;“应用”&gt;“默认应用”&gt;“Web 浏览器”下的图标在弹出式菜单中选取“Google Chrome”或“Firefox”。</li>
-<li>Mac：依次点击：苹果菜单&gt;“系统偏好设置”&gt;“通用”&gt;“默认网页浏览器”弹出式菜单并选取“Safari”或“Google Chrome”或“Firefox”。</li>
-</ul>
-</li>
-<li>安卓设备：<br>
-不同的设备不完全相同，但操作通常是：<strong>打开“设置”&gt;找到“默认应用程序”&gt;找到浏览器的选项，选择“Chrome”</strong><br>
-以下是常见安卓手机中的具体步骤，未提及的按上面的原则一般都能找到相应的选项。
-<ul>
-<li>小米：“设置”&gt;“更多应用”&gt;点击右上角的三个点弹出菜单并选取“默认应用设置”&gt;“浏览器”&gt;“Chrome”。</li>
-<li>坚果/锤子：“设置”&gt;“应用管理”&gt;“默认应用程序”&gt;“浏览器”&gt;“Chrome”。</li>
-<li>华为：“设置”&gt;“应用”&gt;“默认应用”&gt;“浏览器”&gt;“Chrome”。</li>
-</ul>
-</li>
-<li>iPhone/iPad：系统自带的Safari浏览器目前不支持更改，因此确保iOS系统为最新版本</li>
 </ol>
+<p><img src="https://lh3.googleusercontent.com/30pIcTi4xkR9m55jHQ1wEpqn3DTzxm7ilaSNQpsYxoclzEbCR6zC9rSjxBC7RhRWE-x3WsOFu-tf" alt=""><br>
+2. 台式机/笔记本：<br>
+* Windows：依次点击：开始菜单&gt;“设置”&gt;“应用”&gt;“默认应用”&gt;“Web 浏览器”下的图标在弹出式菜单中选取“Google Chrome”或“Firefox”。<br>
+* Mac：依次点击：苹果菜单&gt;“系统偏好设置”&gt;“通用”&gt;“默认网页浏览器”弹出式菜单并选取“Safari”或“Google Chrome”或“Firefox”。<br>
+3. 安卓设备：<br>
+不同的设备不完全相同，但操作通常是：<strong>打开“设置”&gt;找到“默认应用程序”&gt;找到浏览器的选项，选择“Chrome”</strong><br>
+以下是常见安卓手机中的具体步骤，未提及的按上面的原则一般都能找到相应的选项。<br>
+* 小米：“设置”&gt;“更多应用”&gt;点击右上角的三个点弹出菜单并选取“默认应用设置”&gt;“浏览器”&gt;“Chrome”。<br>
+* 坚果/锤子：“设置”&gt;“应用管理”&gt;“默认应用程序”&gt;“浏览器”&gt;“Chrome”。<br>
+* 华为：“设置”&gt;“应用”&gt;“默认应用”&gt;“浏览器”&gt;“Chrome”。<br>
+4. iPhone/iPad：系统自带的Safari浏览器目前不支持更改，因此确保iOS系统为最新版本</p>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h2 id="加入课堂后为什么听不到声音">加入课堂后为什么听不到声音</h2>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
