@@ -97,7 +97,8 @@
 <li>运行并登录桌面版微信</li>
 <li>点击左下角的“≡”按钮弹出菜单并选择“设置”</li>
 <li>选择“通用设置”；</li>
-<li>确保右侧“使用系统默认浏览器打开网页”被勾选；</li>
+<li>确保右侧“使用系统默认浏览器打开网页”被勾选；<br>
+<img src="https://lh3.googleusercontent.com/30pIcTi4xkR9m55jHQ1wEpqn3DTzxm7ilaSNQpsYxoclzEbCR6zC9rSjxBC7RhRWE-x3WsOFu-tf" alt=""></li>
 </ul>
 </li>
 <li>台式机/笔记本：
