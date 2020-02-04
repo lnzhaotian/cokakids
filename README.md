@@ -85,7 +85,7 @@
 <h1 id="faq">FAQ</h1>
 <h2 id="如何安装推荐的浏览器">如何安装推荐的浏览器</h2>
 <ol>
-<li>根据<a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a>里的描述，下载自己设备系统对应的安装包： <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a></li>
+<li>根据<a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a>里的描述，下载自己设备中操作系统所对应的安装包： <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a></li>
 <li>安装完成后一定要<a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">设置为默认浏览器</a></li>
 </ol>
 <h2 id="如何设置默认浏览器">如何设置默认浏览器</h2>
