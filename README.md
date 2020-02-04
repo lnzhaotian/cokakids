@@ -77,6 +77,7 @@
 <h3 id="pc端进入教室">PC端进入教室</h3>
 <ol>
 <li>在PC端登录<a href="https://wx.qq.com/">网页版微信</a>或下载安装<a href="https://weixin.qq.com/cgi-bin/readtemplate?&amp;t=weixin_download_list">桌面版微信</a>并登录；</li>
+<li>如果使用桌面版微信，确保设置<a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">使用系统默认浏览器打开网页</a>；</li>
 <li>找到并点击老师发来的教室链接；</li>
 <li>教室入口会在系统默认浏览器里打开，确保系统默认浏览器符合<a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a>里的浏览器</li>
 <li>后续操作同移动端<a href="#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BF%9B%E5%85%A5%E6%95%99%E5%AE%A4%EF%BC%88%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%BA%E4%BE%8B%EF%BC%89">4-7步</a></li>
@@ -88,8 +89,17 @@
 <li>根据<a href="#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82">系统要求</a>里的描述，下载自己设备中操作系统所对应的安装包： <a href="https://pan.baidu.com/s/1Y8Ji7KLncefzNGm_6MN-lw">常用安装包下载</a></li>
 <li>安装完成后一定要<a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">设置为默认浏览器</a></li>
 </ol>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h2 id="如何设置默认浏览器">如何设置默认浏览器</h2>
 <ol>
+<li>桌面版微信设置使用系统默认浏览器打开网页
+<ul>
+<li>运行并登录桌面版微信</li>
+<li>点击左下角的“≡”按钮弹出菜单并选择“设置”</li>
+<li>选择“通用设置”；</li>
+<li>确保右侧“使用系统默认浏览器打开网页”被勾选；</li>
+</ul>
+</li>
 <li>台式机/笔记本：
 <ul>
 <li>Windows：依次点击：开始菜单&gt;“设置”&gt;“应用”&gt;“默认应用”&gt;“Web 浏览器”下的图标在弹出式菜单中选取“Google Chrome”或“Firefox”。</li>
@@ -105,7 +115,16 @@
 <li>华为：“设置”&gt;“应用”&gt;“默认应用”&gt;“浏览器”&gt;“Chrome”。</li>
 </ul>
 </li>
-<li>iPhone/iPad：系统自带的Safari浏览器目前不支持更改，因此确保iOS系统为最新版本<br>
-<a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></li>
+<li>iPhone/iPad：系统自带的Safari浏览器目前不支持更改，因此确保iOS系统为最新版本</li>
 </ol>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
+<h2 id="加入课堂后为什么听不到声音">加入课堂后为什么听不到声音</h2>
+<ol>
+<li>首次进入课堂并选择麦克风时会弹出提示，要求授权使用麦克风，确保点击允许；</li>
+<li>进入课堂时系统会弹出窗口自动进行回声测试，请耐心等待“连接回音测试”，在出现</li>
+<li></li>
+</ol>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
+<h2 id="我的网络带宽符合要求为什么还是加入不了语音">我的网络带宽符合要求为什么还是加入不了语音</h2>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 
