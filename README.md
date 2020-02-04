@@ -13,6 +13,7 @@
 <li><a href="#%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85%E6%8E%A8%E8%8D%90%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8">如何安装推荐的浏览器</a></li>
 <li><a href="#%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E9%BB%98%E8%AE%A4%E6%B5%8F%E8%A7%88%E5%99%A8">如何设置默认浏览器</a></li>
 <li><a href="#%E5%8A%A0%E5%85%A5%E8%AF%BE%E5%A0%82%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E4%B8%8D%E5%88%B0%E5%A3%B0%E9%9F%B3">加入课堂后为什么听不到声音</a></li>
+<li><a href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%AB%E4%BA%BA%E5%90%AC%E4%B8%8D%E5%88%B0%E6%88%91">为什么别人听不到我</a></li>
 <li><a href="#%E6%88%91%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B8%A6%E5%AE%BD%E7%AC%A6%E5%90%88%E8%A6%81%E6%B1%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%8A%A0%E5%85%A5%E4%B8%8D%E4%BA%86%E8%AF%AD%E9%9F%B3">我的网络带宽符合要求为什么还是加入不了语音</a></li>
 </ul>
 </li>
