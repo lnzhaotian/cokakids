@@ -176,6 +176,6 @@
 此时会弹出提示等待你授权使用麦克风，点击“允许”：<br>
 <img src="https://lh3.googleusercontent.com/hW4NaqaZ67vQYSeAea_TMOqzjEARnxqlkzRVszTmZHEu4nSd3VsWmsaYPTGkOUakurA9S9hPy75u" alt=""><br>
 接下来就进入回音测试完成后就可以在教室里用麦克风跟大家交流了。<br>
-如果摄像头已曾经被你禁止了，也可以用同样的步骤进行设置。</p>
+如果摄像头也曾经被你禁止了，也可以用同样的步骤进行设置。</p>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 
