@@ -171,7 +171,7 @@
 <img src="https://lh3.googleusercontent.com/i6nJZHr9gVxfzU8HOPDt6PmL--B4PsVALYM8v9ZR_8LawS9TQdPtBOwvg3-evvVNsa82bdfKli1m" alt=""><br>
 此时你会退出当前音频通话，图标会变为“加入音频”按钮，再点一次：<br>
 <img src="https://lh3.googleusercontent.com/b4LwgrvAdOT2zPbKa6KL1ZhhUMba75LrJLJCos1mK6lPnK6JuUtFjnFf3cu83DxHxEvxt2JNOQnx" alt=""><br>
-此时会弹出跟刚进教室一样的选择加入音频交流的方式对话框，选择“麦克风”：<br>
+此时会弹出跟刚进教室一样的选择加入音频交流方式的对话框，选择“麦克风”：<br>
 <img src="https://lh3.googleusercontent.com/a8Dl8hq0o3vx6s8968UrY8ymOXimMDtU50hKK_7z11doI7dAhQZWvre60RerzTYdPHduqDYojLPH" alt=""><br>
 此时会弹出提示等待你授权使用麦克风，点击“允许”：<br>
 <img src="https://lh3.googleusercontent.com/hW4NaqaZ67vQYSeAea_TMOqzjEARnxqlkzRVszTmZHEu4nSd3VsWmsaYPTGkOUakurA9S9hPy75u" alt=""><br>
