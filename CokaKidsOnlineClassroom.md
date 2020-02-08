@@ -123,13 +123,13 @@
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h2 id="加入课堂后为什么听不到声音">加入课堂后为什么听不到声音</h2>
 <ol>
-<li>加入课堂时系统会提示选择加入方式为“麦克风”或“仅聆听”，请选择其一；</li>
-<li>如果没有选择，直接关闭了对话框，可以点屏幕下方的听筒图标（加入音频）重新选择；</li>
-<li>如果选择了“仅聆听”后仍然听不到声音，则点击屏幕下方的耳机图标（退出音频），然后再次点击听筒图标（加入音频）并选择“麦克风”：
+<li>加入课堂时系统会提示选择加入方式为“麦克风”或“仅聆听”，请选择其一，比如“麦克风”；<img src="https://lh3.googleusercontent.com/a8Dl8hq0o3vx6s8968UrY8ymOXimMDtU50hKK_7z11doI7dAhQZWvre60RerzTYdPHduqDYojLPH" alt=""></li>
+<li>如果没有选择，直接关闭了对话框，可以点屏幕下方的听筒图标（加入音频）重新选择；<img src="https://lh3.googleusercontent.com/b4LwgrvAdOT2zPbKa6KL1ZhhUMba75LrJLJCos1mK6lPnK6JuUtFjnFf3cu83DxHxEvxt2JNOQnx" alt=""></li>
+<li>如果选择了“仅聆听”后却听不到声音，则点击屏幕下方的耳机图标（退出音频），然后再次点击听筒图标（加入音频）并选择“麦克风”：<img src="https://lh3.googleusercontent.com/i6nJZHr9gVxfzU8HOPDt6PmL--B4PsVALYM8v9ZR_8LawS9TQdPtBOwvg3-evvVNsa82bdfKli1m" alt=""><img src="https://lh3.googleusercontent.com/b4LwgrvAdOT2zPbKa6KL1ZhhUMba75LrJLJCos1mK6lPnK6JuUtFjnFf3cu83DxHxEvxt2JNOQnx" alt=""><img src="https://lh3.googleusercontent.com/a8Dl8hq0o3vx6s8968UrY8ymOXimMDtU50hKK_7z11doI7dAhQZWvre60RerzTYdPHduqDYojLPH" alt="enter image description here">
 <ol>
-<li>系统弹出窗口进行回音测试，请耐心等待“连接回音测试”完成；</li>
-<li>连接成功后出现提示“这是回声测试。请说几句话，您能听到自己的声音吗？”，这时说几句话，如果能听到则选择“是”后进入课堂正常上课，听不到则选择“否”；</li>
-<li>选择否之后会显示“更改您的音频设置”，请在“扬声器源”下面的下拉菜单里更换另一个设备，然后点击“播放声音”；</li>
+<li>系统弹出窗口进行回音测试，请耐心等待“连接回音测试”完成；<img src="https://lh3.googleusercontent.com/MkXjD3pE1hOhdy7V-SrDWByIOzOIPosomuRCFveLDEn1d67GLQJ2jU4DqZJs_Im3_x-gq7KONc18" alt=""></li>
+<li>连接成功后出现提示“这是回声测试。请说几句话，您能听到自己的声音吗？”，这时说几句话，如果能听到则选择“是”后进入课堂正常上课，听不到则选择“否”；<img src="https://lh3.googleusercontent.com/-JtN6QeFExWiH5JTbeeT93Eq8NnzcKyGccHV3udbfCgyu6bg3mX41dmbv4P1kL340lWNFG9eUdA-" alt=""></li>
+<li>选择否之后会显示“更改您的音频设置”，请在“扬声器源”下面的下拉菜单里更换另一个设备，然后点击“播放声音”；<img src="https://lh3.googleusercontent.com/Oc_6KSKqe7e_YtcogpcFxB45o73WJcbLVZYSv9PGaeucK8dOr54JqILrN6VOsT7mSZSQlMbIJ2Ow" alt=""></li>
 <li>重复更改扬声器设备直到成功听到声音，然后点重试；</li>
 <li>重复以上步骤，直到能听到自己的声音并进入课堂；</li>
 <li>成功加入音频后如果仍然想“仅聆听”，可以点击屏幕下方的麦克风图标（静音）或者点击听筒图标（退出音频）后再次点击听筒图标（加入音频）并选择“仅聆听”。</li>
@@ -140,11 +140,11 @@
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 <h2 id="为什么别人听不到我">为什么别人听不到我</h2>
 <ol>
-<li>进入课堂时选择“麦克风”而非“仅聆听”；</li>
-<li>首次选择“麦克风”时会弹出提示，要求授权使用麦克风，确保点击允许；</li>
-<li>系统弹出窗口进行回音测试，请耐心等待“连接回音测试”完成；</li>
-<li>连接成功后出现提示“这是回声测试。请说几句话，您能听到自己的声音吗？”，这时说几句话，如果能听到则选择“是”后进入课堂正常上课，听不到则选择“否”；</li>
-<li>选择否之后会显示“更改您的音频设置”，请在“麦克风源”下面的下拉菜单里更换另一个设备，然后点击“重试”</li>
+<li>进入课堂时选择“麦克风”而非“仅聆听”；<img src="https://lh3.googleusercontent.com/a8Dl8hq0o3vx6s8968UrY8ymOXimMDtU50hKK_7z11doI7dAhQZWvre60RerzTYdPHduqDYojLPH" alt=""></li>
+<li>首次选择“麦克风”时会弹出提示，要求授权使用麦克风，确保点击“允许”（如果不小心点了“禁止”，则需要<a href="#%E6%82%A8%E7%9A%84%E8%A7%86%E9%9F%B3%E9%A2%91%E7%9B%B8%E5%85%B3%E8%AE%BE%E5%A4%87%E5%87%BA%E4%BA%86%E4%B8%AA%E9%97%AE%E9%A2%98">更改浏览器设置</a>）；<img src="https://lh3.googleusercontent.com/s09GgCWH7vOPwNLoMtWELoTN2UvSwMjE0IjGinfIcCc2Bf-IYHK3nhXIz3Ff0eXKvkPRmyxcIEB-" alt=""></li>
+<li>系统弹出窗口进行回音测试，请耐心等待“连接回音测试”完成；<img src="https://lh3.googleusercontent.com/MkXjD3pE1hOhdy7V-SrDWByIOzOIPosomuRCFveLDEn1d67GLQJ2jU4DqZJs_Im3_x-gq7KONc18" alt=""></li>
+<li>连接成功后出现提示“这是回声测试。请说几句话，您能听到自己的声音吗？”，这时说几句话，如果能听到则选择“是”后进入课堂正常上课，听不到则选择“否”；<img src="https://lh3.googleusercontent.com/-JtN6QeFExWiH5JTbeeT93Eq8NnzcKyGccHV3udbfCgyu6bg3mX41dmbv4P1kL340lWNFG9eUdA-" alt=""></li>
+<li>选择否之后会显示“更改您的音频设置”，请在“麦克风源”下面的下拉菜单里更换另一个设备，然后点击“重试”<img src="https://lh3.googleusercontent.com/Oc_6KSKqe7e_YtcogpcFxB45o73WJcbLVZYSv9PGaeucK8dOr54JqILrN6VOsT7mSZSQlMbIJ2Ow" alt=""></li>
 <li>重复3-5的步骤，直到成功听到自己的声音；</li>
 <li>如果上述步骤均不成功，请核查麦克风硬件问题。</li>
 </ol>
