@@ -15,6 +15,7 @@
 <li><a href="#%E5%8A%A0%E5%85%A5%E8%AF%BE%E5%A0%82%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%AC%E4%B8%8D%E5%88%B0%E5%A3%B0%E9%9F%B3">加入课堂后为什么听不到声音</a></li>
 <li><a href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%AB%E4%BA%BA%E5%90%AC%E4%B8%8D%E5%88%B0%E6%88%91">为什么别人听不到我</a></li>
 <li><a href="#%E6%88%91%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B8%A6%E5%AE%BD%E7%AC%A6%E5%90%88%E8%A6%81%E6%B1%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%8A%A0%E5%85%A5%E4%B8%8D%E4%BA%86%E8%AF%AD%E9%9F%B3">我的网络带宽符合要求为什么还是加入不了语音</a></li>
+<li><a href="#%E6%82%A8%E7%9A%84%E8%A7%86%E9%9F%B3%E9%A2%91%E7%9B%B8%E5%85%B3%E8%AE%BE%E5%A4%87%E5%87%BA%E4%BA%86%E4%B8%AA%E9%97%AE%E9%A2%98">您的视音频相关设备出了个问题</a></li>
 </ul>
 </li>
 </ul>
@@ -154,5 +155,27 @@
 <li>在上课期间确保当前网络下接入的设备中不要使用下载软件、网络视频播放软件、网络游戏等容易占用带宽的软件或网站；</li>
 <li>条件允许的情况下尽可能为在线课堂准备专属独享的网络环境；</li>
 </ol>
+<p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
+<h2 id="您的视音频相关设备出了个问题">您的视音频相关设备出了个问题</h2>
+<p>如果你第一次在教室里使用麦克风或者摄像头时，弹出窗口询问你是不是允许时选择了禁止，那么你以后进入教室想启用麦克风或摄像头时会出现如下提示而无法启用：<br>
+<img src="https://lh3.googleusercontent.com/4Bu8zoMnBGK0IipQOmvpGUgPitv3iclAug0l5XBoPZu6c463EI4ZxGgElLixb_zrF7d_O-koo_05" alt=""><br>
+要解决这个问题则需要点Chrome浏览器右上角的三个点并选择“设置”：<br>
+<img src="https://lh3.googleusercontent.com/y3zqO1MvmKuF7ltPPYeJN52WM6A-w6YF1q45It3rGCdscPee9bQoBQ6UrPwgfunE1RG-RwVH9r3m" alt=""><br>
+依次选择“高级”&gt;“隐私设置和安全性”&gt;“网站设置”：<br>
+<img src="https://lh3.googleusercontent.com/4yRkzQTux0-IlxbRvDRIJiJavaXUfdiRrlSPAbAo_lLfS2nRKa0gL--iiGyQgu9zUrRJ9xFxu4jE" alt="enter image description here"><br>
+选择“麦克风”（摄像头的设置与以下步骤类似）：<br>
+<img src="https://lh3.googleusercontent.com/czXgVk9IR3vgBdjscsAnFPrjvwhel8SXJOM00BrFkcuIXr81AzpXQVt96t3opTmizDU3ldgh9s9f" alt=""><br>
+确保“使用前先询问（推荐）”右侧的开关处于打开状态，并且在“禁止”下面中找到在线教室的链接，在右侧点击垃圾筒将该条设置删除：<br>
+<img src="https://lh3.googleusercontent.com/xgNTzJsC2qg1C3o6KMrVby9tXIsDPPW7OEf0hGOBXnAdVNGDJIeiMg-7KeePn-v7-n6gRQG1pvG2" alt=""><br>
+接下来再次回到教室界面，如果刚才没有退出教室，并之前以“仅聆听”方式在听课的话，先找到主画面下方的“退出音频”按钮并点击一下：<br>
+<img src="https://lh3.googleusercontent.com/i6nJZHr9gVxfzU8HOPDt6PmL--B4PsVALYM8v9ZR_8LawS9TQdPtBOwvg3-evvVNsa82bdfKli1m" alt=""><br>
+此时你会退出当前音频通话，图标会变为“加入音频”按钮，再点一次：<br>
+<img src="https://lh3.googleusercontent.com/b4LwgrvAdOT2zPbKa6KL1ZhhUMba75LrJLJCos1mK6lPnK6JuUtFjnFf3cu83DxHxEvxt2JNOQnx" alt=""><br>
+此时会弹出跟刚进教室一样的选择加入音频交流的方式对话框，选择“麦克风”：<br>
+<img src="https://lh3.googleusercontent.com/a8Dl8hq0o3vx6s8968UrY8ymOXimMDtU50hKK_7z11doI7dAhQZWvre60RerzTYdPHduqDYojLPH" alt=""><br>
+此时会弹出提示等待你授权使用麦克风，点击“允许”：<br>
+<img src="https://lh3.googleusercontent.com/hW4NaqaZ67vQYSeAea_TMOqzjEARnxqlkzRVszTmZHEu4nSd3VsWmsaYPTGkOUakurA9S9hPy75u" alt=""><br>
+接下来就进入回音测试完成后就可以在教室里用麦克风跟大家交流了。<br>
+如果摄像头已曾经被你禁止了，也可以用同样的步骤进行设置。</p>
 <p><a href="#%E5%8F%AF%E5%8D%A1%E8%8B%B1%E8%AF%AD%E5%9C%A8%E7%BA%BF%E8%AF%BE%E5%A0%82%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E">返回顶部</a></p>
 
